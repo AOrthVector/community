@@ -12,7 +12,7 @@ Release cadence of is currently variable and no time table has been published
 | v0.0.0         | 2020-??-??  spark-poc repo                 | Bob McCormack (GitHub: @bobmcc9)            |
 
 
-If you are interested in volunteering please create a pull request against the [prometheus/prometheus](https://github.com/prometheus/prometheus) repository and propose yourself for the release series of your choice.
+If you are interested in volunteering please create a pull request against the [genevaers\gvblib](https://github.com/genevaers/gvblib) repository or [genevaers\sparck-poc](https://github.com/genevaers/spark-poc)and propose yourself for the release series of your choice.
 
 ## Release Shephered responsibilities 
 
